@@ -81,4 +81,4 @@ The final model will help identify customers who are likely to churn. This can h
 
 ## Author
 
-Shree Vidya
+Shree Vidya N
