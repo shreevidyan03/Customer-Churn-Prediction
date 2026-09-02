@@ -51,7 +51,6 @@ The project includes classification models such as:
 
 - Logistic Regression
 - Random Forest
-- XGBoost
 
 ## Evaluation Metrics
 
